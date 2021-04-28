@@ -1,1 +1,16 @@
-asdf
+Arm
+    Move up
+    Move left or right
+    move claw
+    pick up
+
+Drive
+    move left right up down
+    move to foundation
+    drag foundation
+    park 
+
+Intake
+    move servo gate
+    move Intake wheels
+    
